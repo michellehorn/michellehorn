@@ -28,9 +28,9 @@
 
 ### Where to find me
 
-![Linkedin](https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2&?link=https://www.linkedin.com/in/michelle-horn/)&nbsp;
-![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/devmichellehorn)&nbsp;
-![Gmail](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=#1DA1F2&link=dev.michellehorn@gmail.com)&nbsp;
+![Linkedin](https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2?link=https://www.linkedin.com/in/michelle-horn/)&nbsp;
+![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2?link=https://twitter.com/devmichellehorn)&nbsp;
+![Gmail](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=#1DA1F2?link=https://dev.michellehorn@gmail.com&link=https://dev.michellehorn@gmail.com)&nbsp;
 
 </br>
 
