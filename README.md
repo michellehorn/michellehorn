@@ -26,15 +26,15 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Where to find me
-<a alt="Linkedin" href="https://www.linkedin.com/in/michelle-horn/" target="_blank">
+<a alt="Linkedin" href="https://www.linkedin.com/in/michelle-horn/" target="_blank" rel=”noopener>
   <img src="https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2" />
 </a>
  
-<a alt="Twitter" href="https://twitter.com/devmichellehorn" target="_blank">
+<a alt="Twitter" href="https://twitter.com/devmichellehorn" target="_blank" rel=”noopener>
   <img src="https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2" />
 </a>
  
-<a alt="Email" href="https://dev.michellehorn@gmail.com" target="_blank">
+<a alt="Email" href="https://dev.michellehorn@gmail.com" target="_blank" rel=”noopener>
   <img src="https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=#1DA1F2" />
 </a>
 </br>
