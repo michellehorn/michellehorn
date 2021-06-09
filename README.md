@@ -27,11 +27,17 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Where to find me
-
-![Linkedin](https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2?link=https://www.linkedin.com/in/michelle-horn/)&nbsp;
-![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2?link=https://twitter.com/devmichellehorn)&nbsp;
-![Gmail](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=#1DA1F2?link=https://dev.michellehorn@gmail.com&link=https://dev.michellehorn@gmail.com)&nbsp;
-
+<a href="https://www.linkedin.com/in/michelle-horn/">
+  <img src="https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2" />
+</a>
+ 
+<a href="https://twitter.com/devmichellehorn">
+  <img src="https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2" />
+</a>
+ 
+<a href="https://dev.michellehorn@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=#1DA1F2" />
+</a>
 </br>
 
 Meu site é [esse aqui](https://devmhorn.web.app/).
