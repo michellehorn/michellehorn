@@ -29,7 +29,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/michelle-horn)&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2)](https://www.linkedin.com/in/michelle-horn/)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/devmichellehorn)&nbsp;
 [![Email](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=EA4335)](https://dev.michellehorn@gmail.com)&nbsp;
 
 
