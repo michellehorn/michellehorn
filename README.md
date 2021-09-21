@@ -5,7 +5,7 @@
   
  ### Hi there! 👋 
 <p> 
-  I'm Michelle, a front-end developer based in Florianópolis/BR. Currently working at <a href="https://github.com/betrybe">@betrybe</a></span></p>
+  I'm Michelle, a front-end developer based in Florianópolis/BR. Currently working at <a href="https://github.com/micromedio">@micromedio</a></span></p>
 </p>
 </br>
 
@@ -33,4 +33,4 @@
 [![Email](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=EA4335)](https://dev.michellehorn@gmail.com)&nbsp;
 
 
-Meu site é [esse aqui](https://devmhorn.web.app/).
+My website is [this one](https://devmhorn.web.app/).
