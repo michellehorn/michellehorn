@@ -5,7 +5,7 @@
   
  ### Hi there! 👋 
 <p> 
-  I'm Michelle, a front-end developer based in Florianópolis/BR. Currently working at <a href="https://github.com/micromedio">@micromedio</a></span></p>
+  I'm Michelle, a front-end developer based in Florianópolis/BR. #OpenToWork
 </p>
 </br>
 
