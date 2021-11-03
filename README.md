@@ -5,7 +5,7 @@
   
  ### Hi there! 👋 
 <p> 
-  I'm Michelle, a front-end developer based in Florianópolis/BR. #OpenToWork
+  I'm Michelle, a front-end developer based in Florianópolis/BR.
 </p>
 </br>
 
