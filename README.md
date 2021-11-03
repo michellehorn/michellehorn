@@ -4,9 +4,9 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
   
  ### Hi there! 👋 
-<p> 
+
   I'm Michelle, a front-end developer based in Florianópolis/BR. Currently working at [@loft-br](https://github.com/loft-br) 
-</p>
+
 </br>
 
 #### 🛠 &nbsp;Tech Stack
