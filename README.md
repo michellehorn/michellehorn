@@ -1,7 +1,6 @@
 ![version :21.06.2021](https://img.shields.io/badge/version-21.06.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=michellehorn&color=red)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/michellehorn?label=follow&style=social)](https://github.com/michellehorn)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
   
  ### Hi there! 👋 
 
