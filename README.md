@@ -4,7 +4,7 @@
   
  ### Hi there! 👋 
 
-  I'm Michelle, a front-end developer based in Florianópolis/BR. Currently working at [@loft-br](https://github.com/loft-br) 
+  I'm Michelle, a front-end developer based in Florianópolis/BR.
 
 </br>
 
