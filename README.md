@@ -4,7 +4,7 @@
   
  ### Hi there! 👋 
 
-  I'm Michelle, a front-end developer at Raro Labs, based in Florianópolis/BR.
+  I'm Michelle, a front-end developer at @rarolabs, based in Florianópolis/BR.
 
 </br>
 
