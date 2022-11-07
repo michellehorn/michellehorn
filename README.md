@@ -32,4 +32,4 @@
 [![Email](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=EA4335)](https://dev.michellehorn@gmail.com)&nbsp;
 
 
-My website is [this one](https://devmhorn.firebaseapp.com/).
+My website is [this one](https://michellehorn.dev).
